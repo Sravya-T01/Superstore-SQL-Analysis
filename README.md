@@ -43,5 +43,7 @@ This project involves a series of SQL queries designed to analyze the Superstore
 ## Files in the Repository
 
 **SQL File**: Contains the SQL queries used for the analysis, which provide insights into customer behavior, sales, and product performance.
+
 **CSV File**: Includes the cleaned Superstore Orders dataset used in the analysis.
+
 **License File**: Specifies the license for the project.
